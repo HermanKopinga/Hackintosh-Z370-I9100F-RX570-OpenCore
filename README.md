@@ -10,7 +10,7 @@ Description and sort-of buildlog of my Hackintosh.
 
 - Asus PRIME Z370-A II 
 - Intel Core i3 9100F (no built in iGPU)
-- Asus Strix RX570 4gb AMD videocard
+- Asus Strix Radeon RX570 4gb videocard
 - 2 * Corsair DDR4 LPX 16GB 3200MHz
 - 1 * Kingston A2000 500GB NVMe SSD (OSX)
 - 1 * Kingston A2000 250GB NVMe SSD (Windows 10)
@@ -19,14 +19,21 @@ Description and sort-of buildlog of my Hackintosh.
 #### Working
 
 - CPU Turbo Boost
-- Memory XMP
 - Ethernet
 - Onboard Audio Output
 - Sleep/Wake
-- All USB ports Patched
+- All USB ports Patched (I think*)
 - iMessage
 - App Store
 - Facetime
+- Windows multiboot
 - ~~Bluetooth~~, no card yet, plan on Fenvi T919
 - ~~Wi-Fi~~
 - ~~Airdrop~~
+
+#### Plans
+
+- Memory XMP, useful?
+- Get Fenvi T919
+- 2TB SSD drive for photo and audio storage
+- Backup solution
