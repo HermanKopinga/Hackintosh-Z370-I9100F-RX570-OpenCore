@@ -33,7 +33,8 @@ Description and sort-of buildlog of my Hackintosh.
 
 #### Plans
 
-- Memory XMP, useful?
 - Get Fenvi T919
 - 2TB SSD drive for photo and audio storage
 - Backup solution
+- Properly test USB speeds
+- Memory XMP, useful?
