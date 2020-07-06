@@ -51,7 +51,7 @@ Description and sort-of buildlog of my Hackintosh.
 #### Working
 
 - CPU Turbo Boost
-- Ethernet
+- Ethernet, but only 100Mbit, needs fixing.
 - Onboard Audio Output
 - Sleep/Wake
 - All USB ports Patched (I think*)
@@ -72,4 +72,4 @@ Description and sort-of buildlog of my Hackintosh.
 - Backup solution
 - Properly test USB speeds
 - Memory XMP, useful?
-
+- Speed up ethernet to 1000Mbit
