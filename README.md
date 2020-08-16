@@ -15,15 +15,18 @@ Description and sort-of buildlog of my Hackintosh.
 
 - Asus PRIME Z370-A II 
 - Intel Core i3 9100F (no built in iGPU)
+- Be quiet Shadow Rock LP Low Profile CPU cooler, upgraded from boxed Intel cooler. Way cooler and whisper quiet.
 - Asus Strix Radeon RX570 4gb videocard (bought second hand)
 - 2 * Corsair DDR4 LPX 16GB 3200MHz
-- 1 * Kingston A2000 500GB NVMe SSD (OSX) (out of Odroid where it didn't work)
-- 1 * Kingston A2000 250GB NVMe SSD (Windows 10/Linux) (out of Odroid where it didn't work)
-- 1 * Cooler Master MWE Bronze 550 V2
-- 1 * Generic ATX Case from 20+ years ago out of 'deep storage'
-- 1 * Dell U2410 1920 x 1200
-- 1 * Dell P2412H 1920 x 1080
-- 1 * Philips 200WS 1680 x 1050
+- Kingston A2000 500GB NVMe SSD (OSX) (out of Odroid where it didn't work)
+- Kingston A2000 250GB NVMe SSD (Windows 10/Linux) (out of Odroid where it didn't work)
+- Crucial MX1000 1TB SATA SSD for photo's, movies, music and virtual machines.
+- Western Digital 6TB SATA spinning disk for back-ups of this and other systems.
+- Cooler Master MWE Bronze 550 V2
+- Generic ATX Case from 20+ years ago out of 'deep storage'
+- Dell U2410 1920 x 1200
+- Dell P2412H 1920 x 1080
+- Philips 200WS 1680 x 1050
 
 ### Process
 - Subscribed to [Hackintosh subreddit](http://reddit.com/r/hackintosh/) and read up on succesful builds.
@@ -47,11 +50,13 @@ Description and sort-of buildlog of my Hackintosh.
   - Made one mistake, I missed one of the kexts on my USB disk. At first I didn't realise this and tried to boot, after chasing my tail trying to debug I fixed it in about 30 minutes.
 - Celebrated by installing Steam and playing some Factorio :)
 - Mapped USB ports using [KTGWKenta's work](https://github.com/KTGWKenta/Hackintosh-Asus-Z370a), this seems to work. But I haven't properly tested it yet and based on further research KTGWKenta has a slightly different motherboard. 
+- Added more storage after verifying everyting works: 1TB SSD for media and 6TB disk for backups.
+- Upgraded CPU cooler to an 'be quiet Shadow Rock LP', once it got hotter the noise became hard to ignore. After the upgrade it's SO much better.
 
 #### Working
 
 - CPU Turbo Boost
-- Ethernet, but only 100Mbit, needs fixing.
+- Ethernet, 1000MBit (fixed my 100MBit problem with a new cable :-S)
 - Onboard Audio Output
 - Sleep/Wake
 - All USB ports Patched (I think*)
@@ -68,8 +73,5 @@ Description and sort-of buildlog of my Hackintosh.
 
 - Prettify the boot process, lessen the debugging info
 - Get Fenvi T919
-- 2TB SSD drive for photo and audio storage
-- Backup solution
 - Properly test USB speeds
 - Memory XMP, useful?
-- Speed up ethernet to 1000Mbit
