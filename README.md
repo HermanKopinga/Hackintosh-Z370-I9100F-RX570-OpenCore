@@ -39,7 +39,7 @@ Description and sort-of buildlog of my Hackintosh.
     - AMD RX580 with 8GB, bought the 4GB RX570 second hand locally, was the first hardware purchase for this project, quick budget fix. 
 - Used Userbenchmark and Tweakers Pricewatch for a performance indication and total cost compared to my MacBook.
 - Found that quite a lot of buildlogs are on GitHub, jay! This helped me settle on the Z370 motherboard.
-- Ordered Motherboard, processor, memory and power supply online, delivered within 16 hours!
+- June 2020: Ordered Motherboard, processor, memory and power supply online, delivered within 16 hours!
 - Built the hardware into my old ATX case, fit like a charm.
 - Oogled the graphical UEFI 'bios'.
 - Ran Memtest86 for a couple of hours.
@@ -50,8 +50,8 @@ Description and sort-of buildlog of my Hackintosh.
   - Made one mistake, I missed one of the kexts on my USB disk. At first I didn't realise this and tried to boot, after chasing my tail trying to debug I fixed it in about 30 minutes.
 - Celebrated by installing Steam and playing some Factorio :)
 - Mapped USB ports using [KTGWKenta's work](https://github.com/KTGWKenta/Hackintosh-Asus-Z370a), this seems to work. But I haven't properly tested it yet and based on further research KTGWKenta has a slightly different motherboard. 
-- Added more storage after verifying everyting works: 1TB SSD for media and 6TB disk for backups.
-- Upgraded CPU cooler to an 'be quiet Shadow Rock LP', once it got hotter the noise became hard to ignore. After the upgrade it's SO much better.
+- After 2 weeks: Added more storage after verifying everyting works: 1TB SSD for media and 6TB disk for backups.
+- After 4 weeks: Upgraded CPU cooler to an 'be quiet Shadow Rock LP', once it got hotter the noise became hard to ignore. After the upgrade it's SO much better.
 
 #### Working
 
