@@ -31,7 +31,7 @@ Description and sort-of buildlog of my Hackintosh.
 ### Process
 - Subscribed to [Hackintosh subreddit](http://reddit.com/r/hackintosh/) and read up on succesful builds.
 - Figured out Open Core is the way forward. Quite a good time to start Hackintoshing!
-- Read up on guide on [Dortania](https://github.com/dortania/OpenCore-Install-Guide)
+- Read up on guide on [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
 - Started picking hardware found simple advice somewhere (if I re-find the link I'll add it here): do Intel CPU, AMD video and 300 series Motherboard so took this as a baseline.
   - Hardware I considered at first and why I didn't pick them:
     - B365 chipset, later found out the easier way (citation needed) is the older Z370 chipset, motherboards using this are a bit more expensive but I was willing to pay a little more for lesser hassle (the challenge shouldn't be too big ;))
